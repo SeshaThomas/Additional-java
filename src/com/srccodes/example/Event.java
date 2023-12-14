@@ -262,8 +262,8 @@ class Customer {
         System.out.println("Phone Number: " + phoneNumber);
     }
 }
-
-class Booking {
+//class booking type exists 
+ class Booking {
     private Event event;
     private int numTickets;
     private float totalCost;
